@@ -1,0 +1,122 @@
+{
+  "('Nitrogen_Substance', 'ANAMMOX', 'ANAMMOX1')": {
+    "umax": 0.06,
+    "ks": 0.717,
+    "VSS": 0.531
+  },
+  "('Nitrogen_Substance', 'ANAMMOX', 'ANAMMOX2')": {
+    "umax": 0.051,
+    "ks": 0.667,
+    "VSS": 0.463
+  },
+  "('Nitrogen_Substance', 'ANAMMOX', 'ANAMMOX3')": {
+    "umax": 0.063,
+    "ks": 0.757,
+    "VSS": 0.492
+  },
+  "('Nitrogen_Substance', 'AOB', 'AOB1')": {
+    "umax": 0.184,
+    "ks": 2.889,
+    "VSS": 0.734
+  },
+  "('Nitrogen_Substance', 'AOB', 'AOB2')": {
+    "umax": 0.189,
+    "ks": 3.449,
+    "VSS": 0.684
+  },
+  "('Nitrogen_Substance', 'AOB', 'AOB3')": {
+    "umax": 0.203,
+    "ks": 2.505,
+    "VSS": 0.776
+  },
+  "('Nitrogen_Substance', 'Denitrification_NO2', 'De_nitrite1')": {
+    "umax": 0.031,
+    "ks": 0.568,
+    "VSS": 0.489
+  },
+  "('Nitrogen_Substance', 'Denitrification_NO2', 'De_nitrite2')": {
+    "umax": 0.032,
+    "ks": 0.697,
+    "VSS": 0.48
+  },
+  "('Nitrogen_Substance', 'Denitrification_NO2', 'De_nitrite3')": {
+    "umax": 0.037,
+    "ks": 0.825,
+    "VSS": 0.498
+  },
+  "('Nitrogen_Substance', 'Denitrification_NO3', 'De_nitrate1')": {
+    "umax": 0.015,
+    "ks": 0.489,
+    "VSS": 0.504
+  },
+  "('Nitrogen_Substance', 'Denitrification_NO3', 'De_nitrate2')": {
+    "umax": 0.026,
+    "ks": 0.644,
+    "VSS": 0.491
+  },
+  "('Nitrogen_Substance', 'Denitrification_NO3', 'De_nitrate3')": {
+    "umax": 0.019,
+    "ks": 0.774,
+    "VSS": 0.514
+  },
+  "('Nitrogen_Substance', 'NOB', 'NOB1')": {
+    "umax": 0.057,
+    "ks": 0.307,
+    "VSS": 0.946
+  },
+  "('Nitrogen_Substance', 'NOB', 'NOB2')": {
+    "umax": 0.066,
+    "ks": 0.231,
+    "VSS": 0.972
+  },
+  "('Nitrogen_Substance', 'NOB', 'NOB3')": {
+    "umax": 0.064,
+    "ks": 0.537,
+    "VSS": 0.993
+  },
+  "('SOUR', 'AOB', 'AOB1')": {
+    "umax": 1.307,
+    "ks": 0.492,
+    "VSS": 0.828
+  },
+  "('SOUR', 'AOB', 'AOB2')": {
+    "umax": 1.31,
+    "ks": 0.342,
+    "VSS": 0.916
+  },
+  "('SOUR', 'AOB', 'AOB3')": {
+    "umax": 1.547,
+    "ks": 0.53,
+    "VSS": 0.899
+  },
+  "('SOUR', 'CAO', 'CAO1')": {
+    "umax": 0.094,
+    "ks": 0.009,
+    "VSS": 0.816
+  },
+  "('SOUR', 'CAO', 'CAO2')": {
+    "umax": 0.107,
+    "ks": 0.041,
+    "VSS": 0.824
+  },
+  "('SOUR', 'CAO', 'CAO3')": {
+    "umax": 0.103,
+    "ks": 0.034,
+    "VSS": 0.755
+  },
+  "('SOUR', 'NOB', 'NOB1')": {
+    "umax": 0.134,
+    "ks": 0.233,
+    "VSS": 0.818
+  },
+  "('SOUR', 'NOB', 'NOB2')": {
+    "umax": 0.139,
+    "ks": 0.21,
+    "VSS": 0.911
+  },
+  "('SOUR', 'NOB', 'NOB3')": {
+    "umax": 0.15,
+    "ks": 0.192,
+    "VSS": 0.864
+  }
+}

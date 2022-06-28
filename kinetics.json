@@ -1,0 +1,34 @@
+{
+  "('Nitrogen_Substance', 'ANAMMOX')": {
+    "umax": 0.117,
+    "ks": 0.714
+  },
+  "('Nitrogen_Substance', 'AOB')": {
+    "umax": 0.263,
+    "ks": 2.948
+  },
+  "('Nitrogen_Substance', 'Denitrification_NO2')": {
+    "umax": 0.068,
+    "ks": 0.697
+  },
+  "('Nitrogen_Substance', 'Denitrification_NO3')": {
+    "umax": 0.04,
+    "ks": 0.636
+  },
+  "('Nitrogen_Substance', 'NOB')": {
+    "umax": 0.064,
+    "ks": 0.358
+  },
+  "('SOUR', 'AOB')": {
+    "umax": 1.523,
+    "ks": 0.455
+  },
+  "('SOUR', 'CAO')": {
+    "umax": 0.074,
+    "ks": 0.028
+  },
+  "('SOUR', 'NOB')": {
+    "umax": 0.11,
+    "ks": 0.212
+  }
+}
